@@ -25,12 +25,7 @@ export const NavLinks = [
         link : "#Skills"
     },
     {
-        id:6,
-        label : "Testiominal",
-        link : "#Testimonial"
-    },
-    {
-        id: 7,
+        id: 6,
         label: "Contact", 
         link : "#Contact"
 

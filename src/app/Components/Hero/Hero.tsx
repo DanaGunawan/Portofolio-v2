@@ -12,7 +12,7 @@ const Hero = () => {
       <ParticleHero />
       <div className="relative z-10 text-center flex flex-col items-center">
         <Image
-          src="/images/.jpg"
+          src="/images/b2.jpg"
           alt="profileImage"
           className="rounded-full border-8 border-[#0c0c48aa]"
           width={150}
