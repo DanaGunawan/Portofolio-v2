@@ -9,20 +9,20 @@ import ParticleHero from "./ParticleBackground";
 const Hero = () => {
   return (
     <div className="relative h-screen flex items-center justify-center text-white overflow-hidden flex-col">
-      <ParticleHero />
+ 
       <div className="relative z-10 text-center flex flex-col items-center">
         <Image
-          src="/images/b2.jpg"
+          src="/images/FotoDasi.jpg"
           alt="profileImage"
-          className="rounded-full border-8 border-[#0c0c48aa]"
-          width={150}
-          height={150}
+          className="rounded-full border-8 border-[#0c0c48aa] mb-5"
+          width={120}
+          height={120}
         />
         <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-wide">
           Creating Web Products <br /> Brands{" "}
           <span className="text-cyan-200 font-bold">and experiences</span>{" "}
         </h1>
-        <h2 className="text-sm mt-5 px-2 sm:text-2xl font-medium flex items-center">Hi i'm Dana Gunawan a passionate 
+        <h2 className="text-sm mt-5 px-2 sm:text-2xl font-medium flex items-center">Hi i&apos;m Gunawan a passionate 
           <span className="text-cyan-200 font-bold">
             <Typewriter options={{
               strings : [`AI Web Developer`, `Prompt Engineer`],
