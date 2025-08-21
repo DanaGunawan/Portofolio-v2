@@ -15,8 +15,8 @@ const Hero = () => {
           src="/images/FotoDasi.jpg"
           alt="profileImage"
           className="rounded-full border-8 border-[#0c0c48aa] mb-5"
-          width={120}
-          height={120}
+          width={150}
+          height={150}
         />
         <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-wide">
           Creating Web Products <br /> Brands{" "}
@@ -25,7 +25,7 @@ const Hero = () => {
         <h2 className="text-sm mt-5 px-2 sm:text-2xl font-medium flex items-center">Hi i&apos;m Gunawan a passionate 
           <span className="text-cyan-200 font-bold">
             <Typewriter options={{
-              strings : [`AI Web Developer`, `Prompt Engineer`],
+              strings : [`Backend Developer`, `Frontend Developer`],
               autoStart: true,
               loop:true,
               delay:75,

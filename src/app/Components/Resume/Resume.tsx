@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import ResumeCard from './ResumeCard';
 import { FaCodepen } from 'react-icons/fa';
