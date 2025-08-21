@@ -16,7 +16,7 @@ const Contact = () => {
             Get in touch with me for Project or works
           </h1>
           <p className="text-gray-400 text-base sm:text-lg mt-4">
-            let's discuss your next project or collaboration. I'm always open to
+            let&apos;s discuss your next project or collaboration. I&apos;m always open to
             new opportunities and ideas.
           </p>
           <div className="mt-7">

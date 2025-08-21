@@ -14,6 +14,12 @@ const Resume = () => {
                     <div className="mt-10">
                         <ResumeCard
                             Icon={FaCodepen}
+                            role="Banquet Server"
+                            date="Mar 2023 - May 2023 "
+                            description="Assisted in the setup and breakdown of banquet events, ensuring a smooth and efficient service. Provided excellent customer service to guests, enhancing their dining experience."
+                    />
+                        <ResumeCard
+                            Icon={FaCodepen}
                             role="Wordpress Developer"
                             date="Aug 2024 - Feb 2025 "
                             description="Developed and maintained WordPress websites, ensuring optimal performance and user experience. Collaborated with clients to enhancing functionality and design."
